@@ -9,4 +9,4 @@ Conclusion 1 - All five of the top performing schools are Charter Schools, while
 
 Conclusion 2 - The lowest performing school have a slightly larger per student budget than the highest performing schools, which through analysis, seems to be connected more to school size. To me, this shows that student budget doesn't correlate to student success as much as the amount of students does. In fact, the highest % of overall students passing connects to the lowest budget range. School size and school type seem to be the best indicators for students success. 
 
-Smaller schools have higher passing rates and Charter schools have higher passing rates. 
+Smaller schools have higher passing rates and Charter schools have higher passing rates.  
